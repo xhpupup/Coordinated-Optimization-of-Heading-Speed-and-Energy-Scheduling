@@ -2,5 +2,5 @@
 
 
 
-Once our article "xx", we will publish the code.
+Once our article "Coordinated Optimization of Heading, Speed and Energy Scheduling of All-electric Unmanned Surface Vehicle Based on Deep Reinforcement Learning" is accepted, we will publish the code.
 
